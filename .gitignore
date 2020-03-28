@@ -31,3 +31,6 @@
 *.out
 *.app
 /EDMXApplication/.vs/EDMXApplication/DesignTimeBuild
+
+/packages/
+!packages/repositories.config
